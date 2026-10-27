@@ -52,6 +52,4 @@ to if needed later.
 ## Notes
 No issues encountered. Internet connectivity through the NAT Network was confirmed
 working correctly.
-### Step 5: Configure Kali's IP
-Attached the Kali VM's network adapter to the NAT Network created in Step 3.
-Verified the IP configuration and internet connectivity:
+
